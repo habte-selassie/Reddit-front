@@ -3,7 +3,7 @@ import { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBurn, faCog, faSignal } from "@fortawesome/free-solid-svg-icons";
 import "./Sortbar.css";
-import { config } from "@fortawesome/fontawesome-svg-core";
+//import { config } from "@fortawesome/fontawesome-svg-core";
 
 const Sortbar = () => {
   return (
