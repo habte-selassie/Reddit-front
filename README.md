@@ -11,7 +11,7 @@ The Reddit clone Will Have the following features in the following month:
     Creating new posts and communities.
     Searching for posts and communities.
 
-Getting Started
+# Getting Started
 
 To get started with the Reddit clone, you'll need to follow these steps:
 
